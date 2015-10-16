@@ -9,6 +9,7 @@
 
 - `./src/` 의 `index.html` 파일을 `./dist/` 로 복사
 - `./src/` 의 소스(js)들을 `./dist/` 의 `app.js` 으로 합침. 
+- `./src/css` 의 소스(css) 들을 `./dist/style.css` 으로 합침.
 
 ## 순서
 
